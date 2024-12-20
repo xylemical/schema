@@ -1,0 +1,16 @@
+{
+  "name": "xylemical/schema",
+  "autoload": {
+    "psr-4": {
+      "Xylemical\\Schema\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Xylemical\\Schema\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.5"
+  }
+}
